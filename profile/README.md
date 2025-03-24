@@ -14,6 +14,5 @@ Our work is guided by the principles of fairness, transparency, and collaboratio
 Whether you're a researcher, developer, or simply someone passionate about AI, we invite you to join us in our mission to create AI that benefits everyone.
 
 - **Explore Our Models**: Check out our latest models and datasets on the inclusionAI Hub.
-- **Contribute**: Interested in contributing? Visit our GitHub repository to get started.
-- **Join the Conversation**: Connect with us on Twitter and Discord to stay updated on our latest projects and initiatives.
-  
+- **Contribute**: Interested in contributing? Visit our [GitHub](https://github.com/inclusionAI) repository to get started.
+- **Join the Conversation**: Connect with us on [Twitter](https://x.com/ant_oss) and [Discord](https://discord.gg/2X4zBSz9c6) to stay updated on our latest projects and initiatives.
