@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![banner](../assets/banner.png)
+
 Welcome to the official Github organization homepage for inclusionAI.
 
 This organization contains the series of open-source projects from Ant Group with dedicated efforts to work towards Artificial General Intelligence (AGI).
