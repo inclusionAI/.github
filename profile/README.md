@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to the official Hugging Face organization for inclusionAI👋
+Welcome to the official Github organization homepage for inclusionAI.
 
 This organization contains the series of open-source projects from Ant Group with dedicated efforts to work towards Artificial General Intelligence (AGI).
 
