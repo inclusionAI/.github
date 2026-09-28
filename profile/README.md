@@ -28,3 +28,5 @@ Whether you're a researcher, developer, or simply someone passionate about AI, w
 - **Join the Conversation**: Connect with us on [Twitter](https://x.com/ant_oss) and [Discord](https://discord.gg/2X4zBSz9c6) to stay updated on our latest projects and initiatives.
 
 🤖 We are also bridging the gap between digital intelligence and the physical world, exploring the frontiers of Embodied AI. Check out [Robbyant](https://github.com/robbyant), an organization under Ant Group dedicated to building the foundational platform for Embodied AI.
+
+We ❤️ open source, and all projects(models) in our organization are based on MIT or Apache licenses. You must not use our models or projects in a manner that infringes, misappropriates, or otherwise violates any third party's rights, including intellectual property rights. For more information, please check our respective repositories.
